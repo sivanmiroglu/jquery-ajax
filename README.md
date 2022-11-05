@@ -30,4 +30,4 @@ https://northwind.vercel.app/api/categories
 "https://northwind.vercel.app/api/categories bağlantıma gittim ve oradaki dataları foreach ile dönerek ekran da gösterdim.
 
 
-# Linq Sorgulama dili ile elimde bulunan verileri istenilen kriterlere uygunn halde ekran da gösterdim.
+# Linq Sorgulama dili ile elimde bulunan verileri istenilen kriterlere uygunn halde ekran da gösterdik.
